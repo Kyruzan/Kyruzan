@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 High school student<br>💻 Currently learning: [Java / SQL / Cyber Security.]<br>🔨 Currently building: [Game Project]<br>
+🎓 High school student<br>💻 Currently learning: [Java / SQL / Cyber Security.]<br>🔨 Currently building: [A school game project]<br>
 
 
 ## 🌐 Socials:
